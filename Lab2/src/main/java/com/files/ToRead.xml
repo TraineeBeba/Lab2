@@ -1,0 +1,83 @@
+
+/*temp & info*/
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="" ?>
+<students type="root">
+    <student id="1">
+        <fullname>Біба</fullname>
+        <faculty>Факультет Кловнства</faculty>
+        <cathedra>Кафедра клоунячних наук</cathedra>
+        <disciplines>
+            Мемінформування: 5
+            Токсикологія : 5
+            Вступ до кловнячества: 5
+            Основи тролінгу: 5
+            Теорія Клавноєдності: 5
+            Прикладна Крінжологія : 1
+        </disciplines>
+    </student>
+    <student id="2">
+        <fullname>Боба</fullname>
+        <faculty>Факультет Кловнства</faculty>
+        <cathedra>Кафедра клоунячних наук</cathedra>
+        <disciplines>
+            Мемінформування: 999999999+
+            Токсикологія : 5
+            Вступ до кловнячества: 5
+            Основи тролінгу: 5
+            Теорія Клавноєдності: 2
+            Прикладна Крінжологія : 2
+        </disciplines>
+    </student>
+    <student id="3">
+        <fullname>Буба</fullname>
+        <faculty>Факультет Кловнства</faculty>
+        <cathedra>Кафедра клоунячних наук</cathedra>
+        <disciplines>
+            Мемінформування: 2
+            Токсикологія : 1
+            Вступ до кловнячества: 5
+            Основи тролінгу: 5
+            Теорія Клавноєдності: 5
+            Прикладна Крінжологія : 2
+        </disciplines>
+    </student>
+    <student id="4">
+        <fullname>Беба</fullname>
+        <faculty>Факультет Кловнства</faculty>
+        <cathedra>Кафедра клоунячних наук</cathedra>
+        <disciplines>
+            Мемінформування: 5
+            Токсикологія : 1
+            Вступ до кловнячества: 3
+            Основи тролінгу: 3
+            Теорія Клавноєдності: 5
+            Прикладна Крінжологія : 999999999+
+        </disciplines>
+    </student>
+    <student id="5">
+        <fullname>Жордж Сударкін</fullname>
+        <faculty>Факультет Дружніх Відносин</faculty>
+        <cathedra>Кафедра Зелених Сердець</cathedra>
+        <disciplines>
+            Мемінформування: 3
+            Токсикологія : 999999999+
+            Вступ до кловнячества: 3
+            Основи тролінгу: 3
+            Основи Дружності: -1
+        </disciplines>
+    </student>
+    <student id="6">
+        <fullname>Свят</fullname>
+        <faculty>Факультет Гіфочної Справи</faculty>
+        <cathedra>Кафедра Колекціонування гіфок</cathedra>
+        <disciplines>
+            Мемінформування: 3
+            Токсикологія : 0
+            Вступ до кловнячества: 2
+            Основи тролінгу: 3
+            Теорія Добрих Гіфок: 5
+        </disciplines>
+    </student>
+</students>
