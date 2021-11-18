@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="" ?>
+<students type="root">
+    <student id="0">
+        <fullname>Жордж Сударкін</fullname>
+        <faculty>Факультет Дружніх Відносин</faculty>
+        <cathedra>Кафедра Зелених Сердець</cathedra>
+        <disciplines>Основи Дружності: -1</disciplines>
+    </student>
+</students>
